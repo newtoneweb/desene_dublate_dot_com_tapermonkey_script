@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DESENELE DUBLATE MOD
-// @namespace    https://deseneledublate.com/
+// @namespace    http://tampermonkey.net/
 // @version      1.9
 // @description  Скрипт для deseneledublate.com. Добавляет опцию открытия видео в новой вкладке и улучшает функционал
 // @author       Viorel Odajiu
