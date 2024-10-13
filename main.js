@@ -6,9 +6,9 @@
 // @author       Viorel Odajiu
 // @match        *://*.deseneledublate.com/*
 // @match        https://waaw.to/watch_video.php/*
-// @icon         https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/master/icon.svg
-// @downloadURL  https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/master/main.js
-// @updateURL    https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/master/main.js
+// @icon         https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/main/icon.svg
+// @downloadURL  https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/main/main.js
+// @updateURL    https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/main/main.js
 // @grant        none
 // ==/UserScript==
 
