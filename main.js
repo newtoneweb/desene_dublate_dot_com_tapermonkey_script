@@ -9,7 +9,7 @@
 // @icon         https://github.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/raw/main/icon.svg
 // @downloadURL  https://github.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/raw/main/main.js
 // @updateURL    https://github.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/raw/main/main.js
-// @grant        none
+// @homepage     https://github.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script
 // ==/UserScript==
 
 (function () {
