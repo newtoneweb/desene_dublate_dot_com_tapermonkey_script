@@ -24,7 +24,7 @@
 
 ## Использование
 
-После установки перейдите на [deseneledublate.com](https://deseneledublate.com) или [waaw.to](https://waaw.to/watch_video.php), и скрипт автоматически улучшит функциональность сайта, как описано выше.
+После установки перейдите на [deseneledublate.com](https://deseneledublate.com), 
 
 ## Автор
 
