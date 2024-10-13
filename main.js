@@ -2,13 +2,13 @@
 // @name         DESENELE DUBLATE MOD
 // @namespace    https://deseneledublate.com/
 // @version      1.9
-// @description  Скрипт для deseneledublate.com. Добавляет опцию открытия видео в новой вкладке и улучшает функционал Share
+// @description  Скрипт для deseneledublate.com. Добавляет опцию открытия видео в новой вкладке и улучшает функционал
 // @author       Viorel Odajiu
 // @match        *://*.deseneledublate.com/*
 // @match        https://waaw.to/watch_video.php/*
-// @icon         https://raw.githubusercontent.com/newtoneweb/deseneledublate.com/refs/heads/main/cartoons.svg
-// @downloadURL  https://raw.githubusercontent.com/newtoneweb/deseneledublate.com/refs/heads/main/tapermonkey-script.js
-// @updateURL    https://raw.githubusercontent.com/newtoneweb/deseneledublate.com/refs/heads/main/tapermonkey-script.js
+// @icon         https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/master/icon.svg
+// @downloadURL  https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/master/main.js
+// @updateURL    https://raw.githubusercontent.com/newtoneweb/desene_dublate_dot_com_tapermonkey_script/refs/heads/master/main.js
 // @grant        none
 // ==/UserScript==
 
