@@ -174,11 +174,6 @@
         return localStorage.getItem('video-url') || null;
     };
 
-    const MESSAGES = {
-        ro: ['', ''],
-        ru: ['', ''],
-    };
-
     /**
      * Вставляет опцию открытия видео в новой вкладке.
      * @param {string} videoUrl - URL видео.
